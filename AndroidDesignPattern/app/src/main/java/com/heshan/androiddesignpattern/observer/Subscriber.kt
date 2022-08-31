@@ -1,4 +1,4 @@
 package com.heshan.androiddesignpattern.observer
 
-class Subscriber {
+abstract class Subscriber {
 }
